@@ -1,3 +1,40 @@
 .title {
   color: #02ccba;
 }
+header{
+  height:100px;
+  background-color:blue;
+}
+.header-form{
+  width:1170px;
+  margin:0 auto;
+
+}
+.header-logo{
+  text-align:center;
+  color:white;
+
+}
+.global-navigation{
+  color:white;
+  margin:15px;
+  text-align: center;
+}
+.global-navigation ul{
+  float:left;
+}
+.global-navigation li{
+  float:left;
+}
+.contain{
+  height:300px;
+  color:gray;
+}
+.contain-form{
+  width:1170px
+  margin:0 auto;
+}
+.btn{
+  width:25%
+}
+
