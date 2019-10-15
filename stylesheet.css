@@ -25,6 +25,7 @@ header{
 }
 .global-navigation li{
   float:left;
+  padding:20px;
 }
 .contain{
   height:300px;
@@ -37,4 +38,3 @@ header{
 .btn{
   width:25%
 }
-
